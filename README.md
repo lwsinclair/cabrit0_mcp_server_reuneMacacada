@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-cabrit0-mcp-server-reunemacacada-badge.png)](https://mseep.ai/app/mcp-mirror-cabrit0-mcp-server-reunemacacada)
+
 # MCP Server
 
 A server that generates Master Content Plans (MCPs) based on topics. The server aggregates resources from the web and organizes them into structured learning paths.
